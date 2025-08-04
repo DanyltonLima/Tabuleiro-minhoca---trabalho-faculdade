@@ -12,5 +12,4 @@ Para compilar o programa a partir do terminal e em seguida executá-lo, utilize 
 gcc main.c -o minhoca
 ./minhoca
 
-
-##Danylton Lima (Estudante de Análise e Desenvolvimento de Sistemas - UERJ-ZO)
+Autor: Danylton Lima (Estudante de Análise e Desenvolvimento de Sistemas - UERJ-ZO)
